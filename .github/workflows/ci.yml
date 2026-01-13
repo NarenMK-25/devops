@@ -1,5 +1,4 @@
 name: CI-CD Build and Deploy Docker Image
-
 on:
   push:
     branches:
